@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm MạnhG </h1>
 <h3 align="center"> Developer from Vietnames</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manhkhac&color=ff69b4" alt="manhkhac" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhkhac&theme=monokai" alt="manhkhac" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhkhac&theme=gruvbox" alt="manhkhac" /></a> </p>
 <br>
 # 👨🏻‍💻 About Me
 

@@ -13,7 +13,7 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 # 🛠 Tech Stack
 
-- 💻 &nbsp; TypeScript | JavaScript | HTML | CSS
+- 💻 &nbsp; TypeScript | JavaScript | PHP | HTML | CSS
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Adobe Photoshop | After Effect
 

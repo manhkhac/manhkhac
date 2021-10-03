@@ -38,3 +38,7 @@
 &nbsp; <a href="https://t.me/manhkhac" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png"  width="97" /></a>
 &nbsp; <a href="mailto:nguyenmanhict@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
+
+## <p align="center">💔💙💓💝 THANK YOU 💚💗💘💖</p>
+
+![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=manhkhac&theme=react-dark)
